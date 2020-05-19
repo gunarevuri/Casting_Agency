@@ -3,7 +3,7 @@ astroid==2.2.5
 attrs==19.3.0
 Babel==2.8.0
 Click==7.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 Flask==1.0.3
 Flask-Cors==3.0.8
 Flask-RESTful==0.3.7
