@@ -25,7 +25,7 @@ mccabe==0.6.1
 more-itertools
 pluggy==0.13.1
 psycopg2-binary==2.8.5
-py==1.8.1
+py==1.10.0
 pycryptodome==3.3.1
 PyJWT==1.7.1
 pylint==2.5.0
