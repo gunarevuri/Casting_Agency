@@ -5,7 +5,7 @@ Babel==2.8.0
 Click==7.0
 ecdsa==0.13.2
 Flask==1.0.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 Flask-Migrate==2.5.3
 Flask-Moment==0.9.0
