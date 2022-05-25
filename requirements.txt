@@ -27,7 +27,7 @@ pluggy==0.13.1
 psycopg2-binary==2.8.5
 py==1.8.1
 pycryptodome==3.3.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.0
 pylint-flask==0.6
 pylint-flask-sqlalchemy==0.2.0
